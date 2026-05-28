@@ -106,7 +106,7 @@ git push -u origin main
 
 | Variable | Value |
 |----------|-------|
-| `MONGO_URI` | `mongodb+srv://pytrain:pytrain@cluster1...` |
+| `MONGO_URI` | `URL` |
 | `MONGO_DB_NAME` | `SolarPower` |
 | `OPENROUTER_API_KEY` | `sk-or-v1-...` |
 | `JWT_SECRET` | `your-random-64-char-string` |
