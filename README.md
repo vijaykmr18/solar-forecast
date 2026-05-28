@@ -46,7 +46,7 @@ cp .env.example .env.local
 Edit `.env.local`:
 
 ```env
-MONGO_URI=mongodb+srv://pytrain:pytrain@cluster1.ku9jcgf.mongodb.net/?retryWrites=true&w=majority
+MONGO_URI=Your URL here 
 MONGO_DB_NAME=SolarPower
 OPENROUTER_API_KEY=sk-or-v1-your-key-here
 JWT_SECRET=your-long-random-secret-here
